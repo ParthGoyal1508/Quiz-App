@@ -15,7 +15,7 @@ I have to written a Go server that implements REST API and interacts with the da
     - Delete users
 - End Cases Well Handled
 
-##GO Packages 
+## GO Packages 
 "github.com/gin-contrib/cors"
 "github.com/gin-gonic/gin"
 "github.com/jinzhu/gorm"
